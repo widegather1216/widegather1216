@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=widegather1216)
+<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&text=widegather1216)</div>
 
 <div align=center><h3>📚 STACKS</h3></div>
 <div align=center>
