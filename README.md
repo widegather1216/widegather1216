@@ -1,7 +1,7 @@
-<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&text=widegather1216)</div>
+![header](https://capsule-render.vercel.app/api?type=waving&text=widegather1216)
 
-<div align=center><h3>📚 STACKS</h3></div>
-<div align=center>
+<div align=left><h3>📚 STACKS</h3></div>
+<div align=left>
 <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/PHTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
